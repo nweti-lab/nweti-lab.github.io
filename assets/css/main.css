@@ -251,7 +251,7 @@ header .header-content .header-content-inner p {
     color: white;
     opacity: 0;
     display: block;
-    background: rgba(240, 64, 225, 0.9);
+    background: rgb(211, 140, 60);
     position: absolute;
     bottom: 0;
     text-align: center;
@@ -304,7 +304,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: #ed40f0;
+    color: #d38c3c;
 }
 
 .no-gutter > [class*='col-'] {
