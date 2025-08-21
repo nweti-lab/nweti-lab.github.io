@@ -157,7 +157,8 @@ header {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url("../img/header.png"), linear-gradient(30deg, #0E0E0EBF 49%, var(--e-global-color-d59bf1d) 100%);
+    background-image: url("../img/header.png");
+    backdrop-filter: blur(4px);
     text-align: center;
     color: #0d69ca;
     /* filter: blur(4px);
